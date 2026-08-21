@@ -12,7 +12,7 @@
     },
     {
       "name": "keyword.control.pn",
-      "match": "\\b(if|else|while|for|break|continue|return)\\b"
+      "match": "\\b(if|else|while|for|break|continue|return|fn)\\b"
     },
     {
       "name": "support.function.builtin.pn",
