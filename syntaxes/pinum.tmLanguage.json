@@ -16,7 +16,7 @@
     },
     {
       "name": "support.function.builtin.pn",
-      "match": "\\b(print|read)\\b"
+      "match": "\\b(print|println|read)\\b"
     },
     {
       "name": "storage.type.pn",
@@ -29,6 +29,10 @@
     {
       "name": "constant.numeric.pn",
       "match": "\\b\\d+(\\.\\d+)?\\b"
+    },
+    {
+      "name": "entity.name.function.vec.method.pn",
+      "match": "\\b(append|size)\\b"
     },
     {
       "name": "string.quoted.double.pn",
@@ -53,8 +57,20 @@
       ]
     },
     {
+      "name": "keyword.operator.increment.pn",
+      "match": "\\+\\+|--"
+    },
+    {
+      "name": "keyword.operator.assignment.compound.pn",
+      "match": "\\+=|-=|\\*=|/=|%="
+    },
+    {
+      "name": "keyword.operator.comparison.pn",
+      "match": "==|!=|<=|>=|&&|\\|\\|"
+    },
+    {
       "name": "keyword.operator.pn",
-      "match": "[+=\\-\\*/%&^|!<>?~]"
+      "match": "[+\\-\\*/%=<>!&\\|?~:]"
     }
   ]
 }
