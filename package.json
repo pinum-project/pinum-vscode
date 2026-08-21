@@ -1,9 +1,9 @@
 {
   "name": "pinum-lang",
   "publisher": "tanvir",
-  "displayName": "PiNum Language Support",
+  "displayName": "PiNum Lang",
   "description": "Syntax highlighting for the PiNum programming language.",
-  "version": "1.0.1",
+  "version": "1.3.0-beta1",
   "icon": "icon.png",
   "engines": {
     "vscode": "^1.60.0"
