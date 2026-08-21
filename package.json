@@ -19,12 +19,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/tanvir-techbro/PiNum-Lang"
+    "url": "https://github.com/pinum-project/PiNum-Lang"
   },
   "bugs": {
-    "url": "https://github.com/tanvir-techbro/PiNum-Lang/issues"
+    "url": "https://github.com/pinum-project/PiNum-Lang/issues"
   },
-  "homepage": "https://tanvir-techbro.github.io/pinum-site",
+  "homepage": "https://pinum-project.github.io",
   "license": "MIT",
   "galleryBanner": {
     "color": "#010000",

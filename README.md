@@ -1,6 +1,6 @@
 # PiNum Language Support
 
-Syntax highlighting for the [PiNum](https://github.com/tanvir-techbro/PiNum-Lang) programming language (`.pn` files).
+Syntax highlighting for the [PiNum](https://github.com/pinum-project/PiNum-Lang) programming language (`.pn` files).
 
 ## Features
 
